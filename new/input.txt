@@ -1,0 +1,11 @@
+5
+red iamred
+blue iamblue
+green iamgreen
+orange iamorange
+black iamblack
+0 4
+1 4
+2 4
+1 3
+2 3

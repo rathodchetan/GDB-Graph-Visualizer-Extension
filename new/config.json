@@ -1,0 +1,8 @@
+{
+    "Graph": "graph",
+    "Node": "nodes",
+    "child": "children",
+    "val": "id",
+    "color": "color",
+    "data": "data"
+}
